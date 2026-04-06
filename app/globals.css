@@ -1,26 +1,265 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@theme {
+  --color-navy: #2C3E50;
+  --color-navy-deep: #1a2332;
+  --color-teal: #1A8A8A;
+  --color-teal-dark: #157070;
+  --color-slate-blue: #4A7C8A;
+  --color-olive: #7A9A3A;
+  --color-amber: #D4922A;
+  --color-body: #3d4550;
+  --color-light-gray: #F3F4F6;
+  --color-warm-gray: #F5F3F0;
+  --color-warm-white: #FAF9F7;
+  --color-background: #FAFAF8;
+  --color-warm-border: #E8E4DF;
+
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: Georgia, "Times New Roman", serif;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    color: #3d4550;
+    background-color: #FAFAF8;
+    scroll-behavior: smooth;
+  }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  body {
+    line-height: 1.7;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #2C3E50;
+    font-weight: 700;
+    line-height: 1.25;
+  }
+
+  a {
+    color: #1A8A8A;
+  }
+
+  a:hover {
+    color: #157070;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+/* ── Hero: warm left-to-right gradient with grain texture + radial glow ── */
+.hero-premium {
+  position: relative;
+  background-color: #1e3a4f;
+  background-image:
+    radial-gradient(ellipse 70% 60% at 25% 20%, rgba(255,255,255,0.05) 0%, transparent 70%),
+    linear-gradient(120deg, #1e3a4f 0%, #1d5060 45%, #1a7a7a 100%);
+  overflow: hidden;
+}
+
+.hero-premium::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+  background-size: 300px 300px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.hero-premium > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* Hero decorative bottom accent */
+.hero-accent-line {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(to right, transparent, rgba(26, 138, 138, 0.5), rgba(255,255,255,0.15), rgba(26, 138, 138, 0.5), transparent);
+}
+
+/* ── Section rhythm ── */
+.section-warm-white {
+  background-color: #FAF9F7;
+}
+
+.section-warm-gray {
+  background-color: #F5F3F0;
+}
+
+/* Thin gradient divider between sections */
+.section-divider {
+  height: 1px;
+  background: linear-gradient(to right, transparent, rgba(44, 62, 80, 0.08), transparent);
+  margin: 0;
+}
+
+/* ── Cards: teal top accent on hover ── */
+.card-hover-accent {
+  position: relative;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-hover-accent::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(to right, #1A8A8A, #157070);
+  border-radius: 12px 12px 0 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.card-hover-accent:hover::before {
+  opacity: 1;
+}
+
+.card-hover-accent:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.1);
+}
+
+/* ── Form inputs: warm and polished ── */
+.input-warm {
+  width: 100%;
+  border: 1px solid #E8E4DF;
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+  font-size: 0.875rem;
+  color: #3d4550;
+  background-color: #ffffff;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  outline: none;
+}
+
+.input-warm::placeholder {
+  color: #9ca3af;
+}
+
+.input-warm:focus {
+  border-color: #1A8A8A;
+  box-shadow: 0 0 0 3px rgba(26, 138, 138, 0.12);
+}
+
+/* ── Scroll-to-top button ── */
+.scroll-top-btn {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  z-index: 50;
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #1A8A8A, #157070);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 16px rgba(26, 138, 138, 0.35);
+  cursor: pointer;
+  border: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, opacity 0.3s ease;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.scroll-top-btn.visible {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.scroll-top-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(26, 138, 138, 0.45);
+}
+
+/* ── Prose styles for markdown content ── */
+.prose {
+  color: #3d4550;
+  max-width: 72ch;
+  line-height: 1.8;
+}
+
+.prose h1 {
+  font-size: 2.25rem;
+  font-weight: 800;
+  color: #2C3E50;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.prose h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #2C3E50;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #E8E4DF;
+}
+
+.prose h3 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: #2C3E50;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+.prose p {
+  margin-bottom: 1.5rem;
+}
+
+.prose ul {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.prose ol {
+  list-style-type: decimal;
+  padding-left: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.prose li {
+  margin-bottom: 0.625rem;
+}
+
+.prose strong {
+  color: #2C3E50;
+  font-weight: 700;
+}
+
+.prose a {
+  color: #1A8A8A;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.prose a:hover {
+  color: #157070;
+}
+
+.prose blockquote {
+  border-left: 3px solid #1A8A8A;
+  padding-left: 1.5rem;
+  margin-left: 0;
+  margin-bottom: 1.5rem;
+  color: #4A7C8A;
+  font-style: italic;
+}
+
+.prose hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #E8E4DF, transparent);
+  margin: 2.5rem 0;
 }

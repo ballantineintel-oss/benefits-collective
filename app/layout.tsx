@@ -44,7 +44,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={inter.variable}>
-      <head>
+      <body className="bg-background min-h-screen flex flex-col antialiased">
+        <Header />
+        <main className="flex-1">{children}</main>
+        <Footer />
+        <ScrollToTop />
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-NQ9SYMVCTQ"
           strategy="afterInteractive"
@@ -57,12 +61,6 @@ export default function RootLayout({
             gtag('config', 'G-NQ9SYMVCTQ');
           `}
         </Script>
-      </head>
-      <body className="bg-background min-h-screen flex flex-col antialiased">
-        <Header />
-        <main className="flex-1">{children}</main>
-        <Footer />
-        <ScrollToTop />
       </body>
     </html>
   )

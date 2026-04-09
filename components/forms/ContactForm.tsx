@@ -1,30 +1,11 @@
 'use client'
 
-import { useState } from 'react'
+import { useForm, ValidationError } from '@formspree/react'
 
 export default function ContactForm() {
-  const [form, setForm] = useState({ name: '', email: '', message: '' })
-  const [submitted, setSubmitted] = useState(false)
-  const [loading, setLoading] = useState(false)
+  const [state, handleSubmit] = useForm('meepwkjj')
 
-  function handleChange(e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) {
-    setForm({ ...form, [e.target.name]: e.target.value })
-  }
-
-  async function handleSubmit(e: React.FormEvent) {
-    e.preventDefault()
-    setLoading(true)
-
-    // TODO: Integrate with email notification service or CRM
-    // Example: await fetch('/api/contact', { method: 'POST', body: JSON.stringify(form) })
-    console.log('Contact form submission:', form)
-
-    await new Promise((r) => setTimeout(r, 500))
-    setLoading(false)
-    setSubmitted(true)
-  }
-
-  if (submitted) {
+  if (state.succeeded) {
     return (
       <div className="bg-teal/10 border border-teal/20 rounded-xl p-8 text-center">
         <h3 className="text-xl font-bold text-navy mb-2">Message Sent</h3>
@@ -40,31 +21,35 @@ export default function ContactForm() {
     <form onSubmit={handleSubmit} className="space-y-5">
       <div>
         <label htmlFor="name" className={labelClass}>Name <span className="text-teal">*</span></label>
-        <input id="name" type="text" name="name" value={form.name} onChange={handleChange} required placeholder="Your name" className={inputClass} />
+        <input id="name" type="text" name="name" required placeholder="Your name" className={inputClass} />
+        <ValidationError field="name" errors={state.errors} className="text-red-500 text-xs mt-1" />
       </div>
       <div>
         <label htmlFor="email" className={labelClass}>Email <span className="text-teal">*</span></label>
-        <input id="email" type="email" name="email" value={form.email} onChange={handleChange} required placeholder="your@email.com" className={inputClass} />
+        <input id="email" type="email" name="email" required placeholder="your@email.com" className={inputClass} />
+        <ValidationError field="email" errors={state.errors} className="text-red-500 text-xs mt-1" />
       </div>
       <div>
         <label htmlFor="message" className={labelClass}>Message <span className="text-teal">*</span></label>
         <textarea
           id="message"
           name="message"
-          value={form.message}
-          onChange={handleChange}
           required
           rows={5}
           placeholder="How can we help?"
           className={inputClass}
         />
+        <ValidationError field="message" errors={state.errors} className="text-red-500 text-xs mt-1" />
       </div>
+
+      <ValidationError errors={state.errors} className="text-red-500 text-sm text-center" />
+
       <button
         type="submit"
-        disabled={loading}
+        disabled={state.submitting}
         className="w-full bg-gradient-to-b from-teal to-[#157070] text-white font-semibold py-3.5 rounded-lg shadow-sm hover:from-[#1a9696] hover:to-[#127070] hover:shadow-md transition-all duration-200 disabled:opacity-50"
       >
-        {loading ? 'Sending...' : 'Send Message'}
+        {state.submitting ? 'Sending...' : 'Send Message'}
       </button>
     </form>
   )

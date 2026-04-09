@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useForm, ValidationError } from '@formspree/react'
 
 const MONTHS = [
   'January', 'February', 'March', 'April', 'May', 'June',
@@ -8,39 +8,9 @@ const MONTHS = [
 ]
 
 export default function ConsultationForm() {
-  const [form, setForm] = useState({
-    name: '',
-    email: '',
-    company: '',
-    employees: '',
-    currentBroker: '',
-    inPeo: '',
-    renewalMonth: '',
-    message: '',
-  })
-  const [submitted, setSubmitted] = useState(false)
-  const [loading, setLoading] = useState(false)
+  const [state, handleSubmit] = useForm('mlgokbqk')
 
-  function handleChange(
-    e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>
-  ) {
-    setForm({ ...form, [e.target.name]: e.target.value })
-  }
-
-  async function handleSubmit(e: React.FormEvent) {
-    e.preventDefault()
-    setLoading(true)
-
-    // TODO: Integrate with CRM (e.g., HubSpot, Salesforce) or send email notification
-    // Example: await fetch('/api/consultation', { method: 'POST', body: JSON.stringify(form) })
-    console.log('Consultation request:', form)
-
-    await new Promise((r) => setTimeout(r, 600))
-    setLoading(false)
-    setSubmitted(true)
-  }
-
-  if (submitted) {
+  if (state.succeeded) {
     return (
       <div className="bg-teal/10 border border-teal/20 rounded-xl p-8 text-center">
         <div className="w-12 h-12 bg-teal rounded-full flex items-center justify-center mx-auto mb-4">
@@ -65,22 +35,26 @@ export default function ConsultationForm() {
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
         <div>
           <label htmlFor="name" className={labelClass}>Name {required}</label>
-          <input id="name" type="text" name="name" value={form.name} onChange={handleChange} required placeholder="Jane Smith" className={inputClass} />
+          <input id="name" type="text" name="name" required placeholder="Jane Smith" className={inputClass} />
+          <ValidationError field="name" errors={state.errors} className="text-red-500 text-xs mt-1" />
         </div>
         <div>
           <label htmlFor="email" className={labelClass}>Email {required}</label>
-          <input id="email" type="email" name="email" value={form.email} onChange={handleChange} required placeholder="jane@company.com" className={inputClass} />
+          <input id="email" type="email" name="email" required placeholder="jane@company.com" className={inputClass} />
+          <ValidationError field="email" errors={state.errors} className="text-red-500 text-xs mt-1" />
         </div>
       </div>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
         <div>
           <label htmlFor="company" className={labelClass}>Company {required}</label>
-          <input id="company" type="text" name="company" value={form.company} onChange={handleChange} required placeholder="Acme Corp" className={inputClass} />
+          <input id="company" type="text" name="company" required placeholder="Acme Corp" className={inputClass} />
+          <ValidationError field="company" errors={state.errors} className="text-red-500 text-xs mt-1" />
         </div>
         <div>
           <label htmlFor="employees" className={labelClass}>Number of Employees {required}</label>
-          <input id="employees" type="text" name="employees" value={form.employees} onChange={handleChange} required placeholder="e.g. 85" className={inputClass} />
+          <input id="employees" type="text" name="employees" required placeholder="e.g. 85" className={inputClass} />
+          <ValidationError field="employees" errors={state.errors} className="text-red-500 text-xs mt-1" />
         </div>
       </div>
 
@@ -89,27 +63,29 @@ export default function ConsultationForm() {
           <label htmlFor="currentBroker" className={labelClass}>
             Current Broker <span className="text-gray-400 font-normal">(optional)</span>
           </label>
-          <input id="currentBroker" type="text" name="currentBroker" value={form.currentBroker} onChange={handleChange} placeholder="Broker name" className={inputClass} />
+          <input id="currentBroker" type="text" name="currentBroker" placeholder="Broker name" className={inputClass} />
         </div>
         <div>
           <label htmlFor="inPeo" className={labelClass}>Currently in a PEO? {required}</label>
-          <select id="inPeo" name="inPeo" value={form.inPeo} onChange={handleChange} required className={inputClass}>
+          <select id="inPeo" name="inPeo" required className={inputClass}>
             <option value="">Select one</option>
             <option value="yes">Yes</option>
             <option value="no">No</option>
             <option value="unsure">Not sure</option>
           </select>
+          <ValidationError field="inPeo" errors={state.errors} className="text-red-500 text-xs mt-1" />
         </div>
       </div>
 
       <div>
         <label htmlFor="renewalMonth" className={labelClass}>Renewal Month {required}</label>
-        <select id="renewalMonth" name="renewalMonth" value={form.renewalMonth} onChange={handleChange} required className={inputClass}>
+        <select id="renewalMonth" name="renewalMonth" required className={inputClass}>
           <option value="">Select month</option>
           {MONTHS.map((m) => (
             <option key={m} value={m}>{m}</option>
           ))}
         </select>
+        <ValidationError field="renewalMonth" errors={state.errors} className="text-red-500 text-xs mt-1" />
       </div>
 
       <div>
@@ -119,20 +95,21 @@ export default function ConsultationForm() {
         <textarea
           id="message"
           name="message"
-          value={form.message}
-          onChange={handleChange}
           rows={4}
           placeholder="Tell us about your situation — renewal increase, PEO exit, plan design questions, etc."
           className={inputClass}
         />
+        <ValidationError field="message" errors={state.errors} className="text-red-500 text-xs mt-1" />
       </div>
+
+      <ValidationError errors={state.errors} className="text-red-500 text-sm text-center" />
 
       <button
         type="submit"
-        disabled={loading}
+        disabled={state.submitting}
         className="w-full bg-gradient-to-b from-teal to-[#157070] text-white font-semibold py-3.5 rounded-lg shadow-sm hover:from-[#1a9696] hover:to-[#127070] hover:shadow-md transition-all duration-200 disabled:opacity-50 text-base"
       >
-        {loading ? 'Submitting...' : 'Request a Free Consultation'}
+        {state.submitting ? 'Submitting...' : 'Request a Free Consultation'}
       </button>
 
       <p className="text-xs text-gray-400 text-center">

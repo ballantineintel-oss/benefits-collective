@@ -2,7 +2,7 @@
 title: "7 Warning Signs Your HCM System Is Costing You More Than It Should"
 date: "2026-04-11"
 author: "Benefits Collective"
-category: "HR Technology"
+category: "Payroll/HCM Tech"
 description: "Most employers don't realize their payroll and HCM platform is draining time, money, and employee trust until the damage is already done. Here are the warning signs HR leaders should watch for — and what to do about them."
 keywords: ["HCM system warning signs", "when to switch payroll providers", "payroll system problems", "HR technology evaluation", "HCM platform costs"]
 featured: false

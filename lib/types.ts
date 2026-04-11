@@ -73,6 +73,7 @@ export const ARTICLE_CATEGORIES = [
   'HR Strategy',
   'Open Enrollment',
   'Pharmacy Strategy',
+  'Payroll/HCM Tech',
 ] as const
 
 export type ArticleCategory = (typeof ARTICLE_CATEGORIES)[number]

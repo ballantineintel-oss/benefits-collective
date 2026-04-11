@@ -2,7 +2,7 @@
 title: "The Employer's No-BS Guide to Choosing an HCM and Payroll Platform in 2026"
 date: "2026-04-11"
 author: "Benefits Collective"
-category: "HR Technology"
+category: "Payroll/HCM Tech"
 description: "Forget the vendor comparison charts. Here's what actually matters when selecting an HCM and payroll system — from an employer's perspective, not a software salesperson's."
 keywords: ["HCM vendor selection", "choosing payroll software", "employer HCM guide", "payroll platform comparison", "HR technology selection"]
 featured: false

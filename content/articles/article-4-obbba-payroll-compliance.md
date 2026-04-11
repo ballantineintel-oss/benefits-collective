@@ -2,7 +2,7 @@
 title: "The OBBBA Payroll Changes Are Here: What Every Employer Needs to Get Right in 2026"
 date: "2026-04-11"
 author: "Benefits Collective"
-category: "Compliance"
+category: "Payroll/HCM Tech"
 description: "New W-2 reporting codes, overtime deduction tracking, and expanded state requirements — the One Big Beautiful Bill Act created real payroll compliance obligations that many employers still haven't fully addressed."
 keywords: ["OBBBA payroll compliance 2026", "W-2 reporting changes", "overtime tax deduction employers", "payroll compliance requirements", "OBBBA employer obligations"]
 featured: false

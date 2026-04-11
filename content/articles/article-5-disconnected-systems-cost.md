@@ -2,7 +2,7 @@
 title: "The Hidden Tax on Your Business: What Disconnected Payroll, HR, and Benefits Systems Actually Cost"
 date: "2026-04-11"
 author: "Benefits Collective"
-category: "HR Technology"
+category: "Payroll/HCM Tech"
 description: "You're paying for three platforms that don't talk to each other — and the true cost goes far beyond the subscription fees. Here's how to calculate what fragmented HR systems are really costing your organization."
 keywords: ["disconnected HR systems cost", "payroll integration benefits", "HR technology consolidation", "unified HCM platform", "multiple HR systems problems"]
 featured: false

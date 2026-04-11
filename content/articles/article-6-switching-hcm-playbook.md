@@ -2,7 +2,7 @@
 title: "Switching HCM Providers Without Blowing Up Your Payroll: A Step-by-Step Playbook"
 date: "2026-04-11"
 author: "Benefits Collective"
-category: "HR Technology"
+category: "Payroll/HCM Tech"
 description: "The fear of a botched payroll migration keeps employers stuck with bad systems for years. Here's the practical playbook for managing an HCM transition that protects your payroll, your data, and your employees."
 keywords: ["switching payroll providers", "HCM migration guide", "payroll transition plan", "changing payroll systems", "payroll provider switch checklist"]
 featured: false

@@ -2,7 +2,7 @@
 title: "You're Probably Only Using 40% of Your HCM System — Here's How to Fix That"
 date: "2026-04-11"
 author: "Benefits Collective"
-category: "HR Technology"
+category: "Payroll/HCM Tech"
 description: "Before you rip and replace your payroll platform, make sure you're actually using what you already paid for. Most employers leave significant value on the table with their current HCM system."
 keywords: ["HCM system optimization", "maximize payroll software", "HR technology ROI", "HCM underutilization", "payroll system features"]
 featured: false

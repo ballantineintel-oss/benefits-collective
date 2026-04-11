@@ -15,7 +15,8 @@ export default function Header() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16 lg:h-[72px] relative">
           {/* Logo */}
-          <Link href="/" className="flex-shrink-0 mr-6" aria-label="Benefits Collective — home">
+          <Link href="/" className="flex-shrink-0 mr-6 flex items-center gap-3" aria-label="Benefits Collective — home">
+            <img src="/benefits_collective_logo_transparent.png" alt="Benefits Collective" className="h-10 w-auto" />
             <span className="text-[1.35rem] font-bold leading-none tracking-tight">
               <span style={{ color: '#1A8A8A' }}>Benefits</span>
               <span style={{ color: '#2C3E50' }}> Collective</span>

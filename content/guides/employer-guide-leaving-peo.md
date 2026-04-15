@@ -172,3 +172,15 @@ Start early. Build the financial case. Pick the right partners. The other side i
 ---
 
 **Ready to evaluate your PEO exit?** Benefits Collective helps employers build the financial case, select vendors, and manage the transition. [Schedule a free consultation](/consultation) to learn what your options look like.
+
+---
+
+## Real Results: PEO Exit Case Studies
+
+See how two employers went through this process — and what they found on the other side.
+
+**[A 49-Person Company Discovers $86,000 in Hidden PEO Fees](/case-studies/lawncare-peo-exit)**
+A lawn care and landscape company believed their workers' comp rate was too good to walk away from. A full fee audit told a different story — and saved them $78,000 a year.
+
+**[A 28-Person Nonprofit Was Paying $198,000/Year for Payroll. They Had No Idea.](/case-studies/nonprofit-peo-exit)**
+Three hidden fee structures — including a fabricated "compliance tax" and Social Security wage base manipulation — had gone undetected for years. The organization saved over $110,000 annually after exiting.

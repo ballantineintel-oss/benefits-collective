@@ -85,3 +85,15 @@ Waiting until 30 days before renewal puts you in a reactive position and limits 
 ---
 
 **Thinking about leaving your PEO?** Benefits Collective helps employers evaluate the financial case for PEO exit, plan the transition, and set up an independent benefits strategy that delivers better value. [Schedule a free consultation](/consultation) to get a second opinion.
+
+---
+
+## Real Results: PEO Exit Case Studies
+
+See what employers in this situation actually found when someone ran the numbers.
+
+**[A 49-Person Company Discovers $86,000 in Hidden PEO Fees](/case-studies/lawncare-peo-exit)**
+A lawn care and landscape company believed their workers' comp rate was too good to walk away from. A full fee audit told a different story — and saved them $78,000 a year.
+
+**[A 28-Person Nonprofit Was Paying $198,000/Year for Payroll. They Had No Idea.](/case-studies/nonprofit-peo-exit)**
+Three hidden fee structures — including a fabricated "compliance tax" and Social Security wage base manipulation — had gone undetected for years. The organization saved over $110,000 annually after exiting.

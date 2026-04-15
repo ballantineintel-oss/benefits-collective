@@ -1,9 +1,10 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import CTABanner from '@/components/ui/CTABanner'
-import { getArticlesByCategory, getGuides } from '@/lib/content'
+import { getArticlesByCategory, getGuides, getCaseStudies } from '@/lib/content'
 import ArticleCard from '@/components/content/ArticleCard'
 import GuideCard from '@/components/content/GuideCard'
+import CaseStudyCard from '@/components/content/CaseStudyCard'
 
 export const metadata: Metadata = {
   title: 'PEO Exit Strategy',
@@ -13,6 +14,9 @@ export const metadata: Metadata = {
 export default function PeoExitPage() {
   const relatedArticles = getArticlesByCategory('PEO Exit').slice(0, 3)
   const relatedGuides = getGuides().filter((g) => g.category === 'PEO Exit').slice(0, 2)
+  const relatedCaseStudies = getCaseStudies().filter((cs) =>
+    ['lawncare-peo-exit', 'nonprofit-peo-exit'].includes(cs.slug)
+  )
 
   return (
     <>
@@ -112,6 +116,19 @@ export default function PeoExitPage() {
               The first renewal after exit is the moment that tests whether the strategy delivered. Employers who engage a strong benefits advisor and actively manage their plan in year one are in a much stronger position at renewal.
             </p>
           </div>
+
+          {/* Real results — case studies */}
+          {relatedCaseStudies.length > 0 && (
+            <div className="mt-14">
+              <h2 className="text-2xl font-bold text-navy mb-2">Real Results</h2>
+              <p className="text-body mb-6">Employers who went through this process — and what they found.</p>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
+                {relatedCaseStudies.map((cs) => (
+                  <CaseStudyCard key={cs.slug} caseStudy={cs} />
+                ))}
+              </div>
+            </div>
+          )}
 
           {/* Related articles */}
           {relatedArticles.length > 0 && (

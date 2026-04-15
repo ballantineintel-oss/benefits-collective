@@ -6,6 +6,7 @@ const navLinks = [
   { label: 'Articles', href: '/articles' },
   { label: 'Guides', href: '/guides' },
   { label: 'Resources', href: '/resources' },
+  { label: 'Case Studies', href: '/case-studies' },
   { label: 'Newsletter', href: '/newsletter' },
 ]
 

@@ -16,6 +16,7 @@ import ArticleCard from '@/components/content/ArticleCard'
 import GuideCard from '@/components/content/GuideCard'
 import ResourceCard from '@/components/content/ResourceCard'
 import ContentGrid from '@/components/content/ContentGrid'
+import CaseStudyCard from '@/components/content/CaseStudyCard'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
@@ -29,6 +30,7 @@ export default function HomePage() {
   const latestArticles = getLatestArticles(6)
   const featuredGuides = getFeaturedGuides(3)
   const resources = getResources().slice(0, 3)
+  const featuredCaseStudies = getCaseStudies().filter((cs) => cs.featured).slice(0, 3)
 
   return (
     <>
@@ -103,6 +105,34 @@ export default function HomePage() {
                 <ResourceCard key={resource.slug} resource={resource} />
               ))}
             </ContentGrid>
+          </div>
+        </section>
+      )}
+
+      {/* Case Studies */}
+      {featuredCaseStudies.length > 0 && (
+        <section className="bg-white py-20 px-4 border-b border-[#E8E4DF]/60">
+          <div className="max-w-7xl mx-auto">
+            <div className="flex items-end justify-between mb-8">
+              <SectionHeading
+                title="Case Studies"
+                subtitle="Real results from employers who took a strategic approach to their benefits."
+                className="mb-0"
+              />
+              <Link href="/case-studies" className="hidden sm:inline text-sm font-medium text-teal hover:text-[#156f6f] transition-colors whitespace-nowrap ml-4">
+                View all case studies →
+              </Link>
+            </div>
+            <ContentGrid cols={3}>
+              {featuredCaseStudies.map((cs) => (
+                <CaseStudyCard key={cs.slug} caseStudy={cs} />
+              ))}
+            </ContentGrid>
+            <div className="mt-6 sm:hidden">
+              <Link href="/case-studies" className="text-sm font-medium text-teal hover:text-[#156f6f]">
+                View all case studies →
+              </Link>
+            </div>
           </div>
         </section>
       )}

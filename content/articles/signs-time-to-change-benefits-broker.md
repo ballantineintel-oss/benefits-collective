@@ -20,11 +20,11 @@ Here are five signs that it might be time to evaluate your broker relationship.
 
 ## 1. They Only Show Up at Renewal Time
 
-If the only time you hear from your broker is when your renewal arrives, that is a problem. A good broker is a year-round strategic partner, not a once-a-year delivery service.
+If the only time you hear from your broker is when your renewal arrives. That is a problem. A good broker is a year-round strategic partner, not a once-a-year delivery service.
 
 Between renewals, your broker should be analyzing your claims data, identifying cost reduction opportunities, helping with compliance issues, supporting your HR team during open enrollment, and proactively bringing you ideas and strategies.
 
-If your broker disappears for 10 months of the year and then shows up with a renewal number and a shrug, they are not earning their compensation.
+If your broker disappears for 10 months of the year and then shows up with a renewal number and a shrug. They are not earning their compensation.
 
 ## 2. They Never Present Alternatives
 
@@ -32,7 +32,7 @@ When your renewal comes in, does your broker present it as a done deal? Or do th
 
 A broker who simply delivers the renewal number without context or alternatives is not advocating for you. They may be prioritizing their carrier relationships over your interests, or they may simply not have the expertise to explore other options.
 
-The best brokers present renewal season as a strategic planning opportunity. They come to the table with data, alternatives, and recommendations — not just a number.
+The best brokers present renewal season as a strategic planning opportunity. They come to the table with data, alternatives, and recommendations: not just a number.
 
 ## 3. They Cannot Explain Your Claims Data
 
@@ -40,11 +40,11 @@ Ask your broker to walk you through your claims data. If they cannot explain you
 
 Claims data is the foundation of any smart benefits strategy. It tells you whether you are overpaying, whether your population is healthy enough for alternative funding, where your biggest cost drivers are, and what strategies would have the most impact.
 
-A broker who does not use claims data to drive strategy is operating blind — and so are you.
+A broker who does not use claims data to drive strategy is operating blind, and so are you.
 
 ## 4. They Have Never Mentioned Alternative Funding
 
-If you have more than 50 enrolled employees and your broker has never discussed level funding, self-funding, captive insurance, or any alternative to fully insured coverage, that is a significant red flag.
+If you have more than 50 enrolled employees and your broker has never discussed level funding, self-funding, captive insurance, or any alternative to fully insured coverage. That is a significant red flag.
 
 Alternative funding strategies can save employers 10 to 30 percent compared to fully insured plans. They are not appropriate for every group, but they should at least be evaluated for any employer of meaningful size.
 
@@ -54,7 +54,7 @@ Some brokers avoid these conversations because they are more complex, because th
 
 Do you know exactly how much your broker earns from your account? Most employers do not.
 
-Benefits brokers are typically compensated through commissions paid by the insurance carrier — usually a percentage of your premium. This means the more you pay in premiums, the more your broker earns. That is an inherent conflict of interest.
+Benefits brokers are typically compensated through commissions paid by the insurance carrier, usually a percentage of your premium. This means the more you pay in premiums, the more your broker earns. That is an inherent conflict of interest.
 
 Some brokers work on a fee-based model instead, where they charge a flat fee for their services regardless of which carrier or plan you choose. This aligns their interests with yours.
 
@@ -68,8 +68,6 @@ Start by having a direct conversation with your broker. Ask them to explain thei
 
 If the answers are not satisfactory, consider getting a second opinion from an independent benefits advisor. A second opinion is typically free and can give you a benchmark for whether your current broker is performing well or falling short.
 
-Changing brokers is not as disruptive as most employers think. Your coverage continues uninterrupted, and a competent new broker can manage the transition smoothly. The most important thing is making sure you have someone in your corner who is genuinely working to optimize your benefits program — not just maintaining the status quo.
-
----
+Changing brokers is not as disruptive as most employers think. Your coverage continues uninterrupted, and a competent new broker can manage the transition smoothly. The most important thing is making sure you have someone in your corner who is genuinely working to optimize your benefits program, not just maintaining the status quo., -
 
 *Not sure if your broker is delivering real value? [Schedule a free strategy review](/consultation) and we will give you an honest assessment of your current benefits program and broker relationship.*

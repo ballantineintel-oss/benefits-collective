@@ -12,7 +12,7 @@ featured: true
 
 Every year, employers across the country receive their health insurance renewal. And every year, the vast majority accept whatever number the carrier puts in front of them.
 
-This guide is for employers who want to do something different. Whether you are facing a modest increase or a double-digit jump, the strategies in this guide will help you approach your renewal as a negotiation — not a foregone conclusion.
+This guide is for employers who want to do something different. Whether you are facing a modest increase or a double-digit jump, the strategies in this guide will help you approach your renewal as a negotiation, not a foregone conclusion.
 
 ## Why Most Employers Overpay at Renewal
 
@@ -52,7 +52,7 @@ Many carriers will reduce their initial renewal by two to five percentage points
 
 ### 30 Days Before Renewal: Decision Phase
 
-By this point you should have your final options clearly laid out. Make your decision based on total value — not just premium. Consider the network, the plan design, the carrier's service quality, the long-term rate stability, and the overall strategic fit.
+By this point you should have your final options clearly laid out. Make your decision based on total value, not just premium. Consider the network, the plan design, the carrier's service quality, the long-term rate stability, and the overall strategic fit.
 
 ### 15 Days Before Renewal: Implementation
 
@@ -60,7 +60,7 @@ Once you have made your decision, the focus shifts to implementation. If you are
 
 ## Understanding Your Claims Data
 
-Claims data is the foundation of every successful renewal negotiation. Without it, you are negotiating blind.
+Claims data is the foundation of every successful renewal negotiation. Without it. You are negotiating blind.
 
 ### What to Request
 
@@ -68,7 +68,7 @@ Ask your carrier or broker for your monthly claims summary, which shows total pa
 
 ### How to Read It
 
-Your loss ratio is the most important number. If your loss ratio is below 80 percent, it means the carrier collected significantly more in premiums than it paid in claims. This gives you strong leverage to negotiate a lower renewal. If your loss ratio is above 100 percent, the carrier lost money on your group, and a renewal increase is more justified — though you should still explore alternatives.
+Your loss ratio is the most important number. If your loss ratio is below 80 percent, it means the carrier collected significantly more in premiums than it paid in claims. This gives you strong leverage to negotiate a lower renewal. If your loss ratio is above 100 percent, the carrier lost money on your group, and a renewal increase is more justified: though you should still explore alternatives.
 
 Large claims are important context. A single catastrophic claim can skew your entire loss ratio. If your high loss ratio is driven by one or two large claims, your underlying population may still be healthy, and a carrier willing to look past the large claims may offer better pricing.
 
@@ -80,7 +80,7 @@ One of the most powerful moves in a renewal negotiation is evaluating alternativ
 
 ### Fully Insured
 
-This is the traditional model. You pay a fixed premium to the carrier, and they assume all the risk. The advantage is simplicity and predictability. The disadvantage is that you have no opportunity to benefit from good claims experience — the carrier keeps the savings.
+This is the traditional model. You pay a fixed premium to the carrier, and they assume all the risk. The advantage is simplicity and predictability. The disadvantage is that you have no opportunity to benefit from good claims experience, the carrier keeps the savings.
 
 ### Level Funded
 
@@ -108,7 +108,7 @@ Offering a high-deductible health plan with an HSA alongside your existing plan 
 
 ### Adjust Tier Contributions
 
-Many employers contribute the same dollar amount or percentage across all coverage tiers — employee only, employee plus spouse, employee plus children, and family. Adjusting your contribution strategy so that you contribute a higher percentage for employee-only coverage and a lower percentage for dependent tiers can meaningfully reduce your total cost.
+Many employers contribute the same dollar amount or percentage across all coverage tiers: employee only, employee plus spouse, employee plus children, and family. Adjusting your contribution strategy so that you contribute a higher percentage for employee-only coverage and a lower percentage for dependent tiers can meaningfully reduce your total cost.
 
 ### Implement Pharmacy Management
 
@@ -120,13 +120,13 @@ If your area has multiple carrier networks, evaluate whether a narrower or diffe
 
 ## How to Negotiate with Your Carrier
 
-When you sit down — through your broker — to negotiate with your carrier, here are the key principles.
+When you sit down, through your broker, to negotiate with your carrier, here are the key principles.
 
 Lead with data. Show the carrier your loss ratio, your competitive quotes, and your alternative funding models. Make it clear that you have done your homework and that you have real options.
 
 Be specific about what you want. Instead of asking for a lower rate generally, ask for specific concessions. Can they match the competitor's rate? Can they extend a rate guarantee? Can they provide wellness program credits?
 
-Be willing to walk away. The most powerful negotiation tool is a genuine willingness to move to another carrier. If the carrier knows you are seriously considering alternatives, they are far more likely to offer meaningful concessions.
+Be willing to walk away. The most powerful negotiation tool is a genuine willingness to move to another carrier. If the carrier knows you are seriously considering alternatives. They are far more likely to offer meaningful concessions.
 
 Negotiate non-price terms too. Rate guarantees, administrative fee reductions, implementation support, and wellness program funding are all negotiable. Sometimes the non-price concessions are more valuable than a small rate reduction.
 
@@ -144,10 +144,8 @@ This approach transforms renewal season from a stressful scramble into a routine
 
 ## The Bottom Line
 
-Your benefits renewal is one of the largest negotiable expenses your company faces each year. The difference between accepting the first number you receive and negotiating effectively can easily be tens of thousands of dollars annually — sometimes hundreds of thousands for larger employers.
+Your benefits renewal is one of the largest negotiable expenses your company faces each year. The difference between accepting the first number you receive and negotiating effectively can easily be tens of thousands of dollars annually, sometimes hundreds of thousands for larger employers.
 
-The strategies in this guide are not complicated, but they do require preparation, data, and a willingness to ask hard questions. If you have those things — or an advisor who can provide them — you are in a strong position to get a better outcome at every renewal.
-
----
+The strategies in this guide are not complicated, but they do require preparation, data, and a willingness to ask hard questions. If you have those things: or an advisor who can provide them. You are in a strong position to get a better outcome at every renewal., -
 
 *Want help putting these strategies into practice for your next renewal? [Schedule a free benefits strategy review](/consultation) and we will analyze your current situation and build a negotiation plan tailored to your company.*

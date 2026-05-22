@@ -12,7 +12,7 @@ featured: false
 readingTime: "8 min read"
 ---
 
-Every year, employers receive a renewal letter from their health insurance carrier. And every year, most employers do the same thing: they look at the number, feel frustrated, and accept it.
+Every year, employers receive a renewal letter from their health insurance carrier. And every year. Most employers do the same thing: they look at the number, feel frustrated, and accept it.
 
 That is a mistake.
 
@@ -20,9 +20,9 @@ Your benefits renewal is not a bill. It is a starting point for a negotiation. A
 
 Here is how to prepare for a renewal negotiation that actually works.
 
-## Start Early — Not When the Renewal Arrives
+## Start Early, Not When the Renewal Arrives
 
-The biggest mistake employers make is waiting until the renewal letter shows up to start thinking about their benefits strategy. By that point, you are already behind.
+The biggest mistake employers make is waiting until the renewal letter shows up to start thinking about their benefits strategy. By that point. You are already behind.
 
 A strong renewal negotiation starts 90 to 120 days before your renewal date. That gives you enough time to gather data, explore alternatives, and create real leverage.
 
@@ -32,7 +32,7 @@ If your renewal date is January 1, you should be starting the process no later t
 
 Before you can negotiate effectively, you need to understand why your rates are going up. Not every renewal increase is driven by the same factors, and the strategy you use depends on the cause.
 
-Common drivers include claims experience from the prior year, medical trend inflation, pharmacy costs, demographic shifts in your workforce, and carrier profit margins. Ask your broker for a detailed breakdown of what is driving your specific increase. If they cannot give you one, that is a red flag.
+Common drivers include claims experience from the prior year, medical trend inflation, pharmacy costs, demographic shifts in your workforce, and carrier profit margins. Ask your broker for a detailed breakdown of what is driving your specific increase. If they cannot give you one. That is a red flag.
 
 A 12 percent increase driven by two large claims is a very different situation than a 12 percent increase driven by general trend. The first one may come back down. The second one probably will not without a structural change.
 
@@ -46,9 +46,9 @@ Ask your broker to pull your large claims report, your monthly claims summary, a
 
 ## Explore Alternative Carriers
 
-One of the most effective negotiation tools is a credible alternative. If your current carrier knows you have competitive quotes from other carriers, they are far more likely to sharpen their pencil on your renewal.
+One of the most effective negotiation tools is a credible alternative. If your current carrier knows you have competitive quotes from other carriers. They are far more likely to sharpen their pencil on your renewal.
 
-Ask your broker to market your group to at least two or three other carriers. This is standard practice and your broker should be willing to do it. If they resist, that is another red flag.
+Ask your broker to market your group to at least two or three other carriers. This is standard practice and your broker should be willing to do it. If they resist. That is another red flag.
 
 Even if you ultimately stay with your current carrier, having competitive bids gives you data points and leverage. Many employers have negotiated their renewal down by three to five percentage points simply by showing their carrier that they have alternatives.
 
@@ -96,8 +96,6 @@ Your benefits renewal is one of the largest expenses your company faces each yea
 
 The employers who consistently get the best results are the ones who start early, ask hard questions, explore alternatives, and make decisions based on data rather than convenience.
 
-If you are not sure whether you are getting the best deal on your benefits, a second opinion costs nothing and could save you a significant amount of money.
-
----
+If you are not sure whether you are getting the best deal on your benefits, a second opinion costs nothing and could save you a significant amount of money., -
 
 *Want help preparing for your next renewal? [Schedule a free benefits strategy review](/consultation) and we will walk through your options together.*

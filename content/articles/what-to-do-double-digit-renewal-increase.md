@@ -40,7 +40,7 @@ If the increase is driven by overall high utilization across your group, you may
 
 If the increase is driven by medical trend and carrier pricing, you may simply be with the wrong carrier or in the wrong funding arrangement.
 
-Without claims data, you are negotiating blind. Insist on getting it.
+Without claims data. You are negotiating blind. Insist on getting it.
 
 ## Get Competitive Quotes
 
@@ -48,7 +48,7 @@ The most powerful tool you have in a renewal negotiation is a credible alternati
 
 If your broker is reluctant to do this, pay attention to that. Some brokers have preferred carrier relationships that may not align with your best interests. A broker who is truly working for you will welcome the opportunity to show you they are getting you the best deal.
 
-When comparing quotes, make sure you are comparing apples to apples. Look at the network, the plan design, the out-of-pocket costs for employees, and the overall value — not just the premium number.
+When comparing quotes, make sure you are comparing apples to apples. Look at the network, the plan design, the out-of-pocket costs for employees, and the overall value, not just the premium number.
 
 ## Explore Alternative Funding
 
@@ -56,7 +56,7 @@ If you have been fully insured and you are consistently seeing double-digit incr
 
 Level funded plans are designed for employers who believe their group is healthier than average. You pay a fixed monthly amount that includes a claims fund, stop-loss insurance, and administrative costs. If your actual claims come in below the funded amount, you get money back. If they come in above, the stop-loss insurance covers the excess.
 
-For many employers with 25 to 200 employees, level funding can reduce costs by 10 to 25 percent compared to fully insured rates — especially if the group has favorable claims history.
+For many employers with 25 to 200 employees, level funding can reduce costs by 10 to 25 percent compared to fully insured rates: especially if the group has favorable claims history.
 
 Self-funded plans offer even more flexibility but require more risk tolerance and administrative infrastructure. They are worth exploring for employers with 100 or more employees.
 
@@ -74,13 +74,13 @@ A good broker will model three to five plan design alternatives and show you the
 
 Many employers do not realize that pharmacy benefits can be separated from the medical plan and managed independently through a pharmacy benefit manager.
 
-Carving out pharmacy benefits gives you more transparency into drug pricing, more control over your formulary, and often better pricing — especially for specialty medications, which are the single largest driver of pharmacy cost increases.
+Carving out pharmacy benefits gives you more transparency into drug pricing, more control over your formulary, and often better pricing: especially for specialty medications, which are the single largest driver of pharmacy cost increases.
 
-This is not the right move for every employer, but for groups spending more than a certain threshold on pharmacy, it is worth exploring.
+This is not the right move for every employer, but for groups spending more than a certain threshold on pharmacy. It is worth exploring.
 
 ## Negotiate Directly
 
-If you have done your homework — you have claims data, competitive quotes, and alternative plan designs — you are in a strong position to negotiate directly with your carrier.
+If you have done your homework, you have claims data, competitive quotes, and alternative plan designs: you are in a strong position to negotiate directly with your carrier.
 
 Present the competitive quotes to your current carrier and ask them to match or beat the pricing. Many carriers will reduce their initial renewal offer by two to five percentage points rather than lose the group entirely.
 
@@ -96,10 +96,8 @@ A second opinion is typically free and carries no obligation. The worst case is 
 
 ## The Bottom Line
 
-A double-digit renewal increase is not a death sentence for your benefits budget. It is a signal that something in your current arrangement needs to change — whether that is your carrier, your funding strategy, your plan design, your broker, or some combination of all four.
+A double-digit renewal increase is not a death sentence for your benefits budget. It is a signal that something in your current arrangement needs to change, whether that is your carrier, your funding strategy, your plan design, your broker, or some combination of all four.
 
-The employers who get the best outcomes are the ones who refuse to accept the first number they are given and instead treat the renewal as an opportunity to optimize their entire benefits program.
-
----
+The employers who get the best outcomes are the ones who refuse to accept the first number they are given and instead treat the renewal as an opportunity to optimize their entire benefits program., -
 
 *Facing a big renewal increase? [Schedule a free strategy review](/consultation) and we will help you evaluate your options before you make a decision.*

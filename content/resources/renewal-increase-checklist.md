@@ -8,13 +8,13 @@ resourceType: "checklist"
 downloadable: true
 ---
 
-When your carrier sends a renewal increase, you have more options than you might think — but acting on them requires a structured approach. Use this checklist to make sure you are covering all the bases.
+When your carrier sends a renewal increase, you have more options than you might think, but acting on them requires a structured approach. Use this checklist to make sure you are covering all the bases.
 
 ## 1. Understand What Is Driving the Increase
 
 - [ ] Request a written explanation from your carrier for the renewal increase
 - [ ] Ask for a breakdown of medical trend vs. claims experience factors
-- [ ] Request your group's loss ratio for the past 2–3 years
+- [ ] Request your group's loss ratio for the past 2, 3 years
 - [ ] Ask your broker to explain what "trend" is being applied and why
 - [ ] Determine whether the increase is primarily driven by claims, trend, or carrier margin changes
 
@@ -22,7 +22,7 @@ When your carrier sends a renewal increase, you have more options than you might
 
 - [ ] Request an aggregate claims report from your carrier (most carriers will provide this for groups of 50+ on request)
 - [ ] Review the report for: top diagnostic categories, high-cost claimants (redacted), pharmacy spend, and utilization trends
-- [ ] Identify whether pharmacy is a material driver (commonly 20–35% of total cost)
+- [ ] Identify whether pharmacy is a material driver (commonly 20, 35% of total cost)
 - [ ] Ask your broker to help you interpret the data
 
 ## 3. Benchmark Your Plan
@@ -33,7 +33,7 @@ When your carrier sends a renewal increase, you have more options than you might
 
 ## 4. Evaluate Alternatives to Your Current Structure
 
-- [ ] Ask your broker to obtain competing quotes from at least 2–3 carriers
+- [ ] Ask your broker to obtain competing quotes from at least 2, 3 carriers
 - [ ] If you have 50+ employees, ask about level-funded options
 - [ ] If you have 100+ employees, ask your broker to model a self-funded comparison
 - [ ] Evaluate whether a captive or consortium arrangement is relevant for your industry or group
@@ -65,8 +65,8 @@ When your carrier sends a renewal increase, you have more options than you might
 ## 8. Plan the Decision Timeline
 
 - [ ] Note your plan effective date and work backwards: When do you need a carrier decision?
-- [ ] Build in 30–45 days for employee open enrollment before the effective date
-- [ ] Allow 2–3 weeks for underwriting and quote evaluation
+- [ ] Build in 30, 45 days for employee open enrollment before the effective date
+- [ ] Allow 2, 3 weeks for underwriting and quote evaluation
 - [ ] Set an internal decision deadline at least 60 days before your plan effective date
 
 ## 9. Communicate With Employees
@@ -80,9 +80,7 @@ When your carrier sends a renewal increase, you have more options than you might
 
 - [ ] Document all quotes received and the basis for your decision
 - [ ] Save all carrier proposals for future comparison
-- [ ] Set a calendar reminder to begin the renewal evaluation process 90–120 days before next renewal
-- [ ] Set a reminder to request claims data quarterly (not just at renewal time)
-
----
+- [ ] Set a calendar reminder to begin the renewal evaluation process 90, 120 days before next renewal
+- [ ] Set a reminder to request claims data quarterly (not just at renewal time), -
 
 **Want help working through this checklist?** Benefits Collective provides employers with a no-cost benefits strategy review. [Schedule a consultation](/consultation) to get a second opinion on your renewal.

@@ -16,13 +16,13 @@ If you run a company with 50 or more employees, pharmacy costs are probably one 
 
 The frustrating part is that most employers have very little visibility into what they are actually paying for prescription drugs, how their pharmacy benefit manager is making money, or what strategies are available to reduce spending.
 
-That needs to change. Here is what employers need to understand about pharmacy costs — and what you can actually do about them.
+That needs to change. Here is what employers need to understand about pharmacy costs: and what you can actually do about them.
 
 ## Why Pharmacy Costs Keep Rising
 
 There are several forces driving pharmacy cost increases, and they are all moving in the same direction.
 
-Specialty drugs are the biggest factor. These are medications used to treat complex conditions like cancer, autoimmune diseases, and rare genetic disorders. They are extraordinarily expensive — often tens of thousands of dollars per patient per year — and they account for a growing share of total pharmacy spending even though they are used by a small percentage of plan members.
+Specialty drugs are the biggest factor. These are medications used to treat complex conditions like cancer, autoimmune diseases, and rare genetic disorders. They are extraordinarily expensive, often tens of thousands of dollars per patient per year, and they account for a growing share of total pharmacy spending even though they are used by a small percentage of plan members.
 
 New drug launches are another driver. The pharmaceutical industry continues to bring new branded medications to market at high price points, and these drugs are often marketed directly to consumers who then request them from their doctors.
 
@@ -34,11 +34,11 @@ And finally, the pharmacy benefit manager industry itself contributes to the pro
 
 Most employers get their pharmacy benefits through a pharmacy benefit manager that is bundled with their medical carrier. The PBM handles the formulary, processes claims, and negotiates pricing with drug manufacturers.
 
-The problem is that the traditional PBM model is built on opacity. Many PBMs earn revenue through spread pricing — they charge the employer one price for a drug and pay the pharmacy a lower price, keeping the difference. They also earn rebates from drug manufacturers for placing certain drugs on the formulary, and those rebates are not always passed through to the employer.
+The problem is that the traditional PBM model is built on opacity. Many PBMs earn revenue through spread pricing: they charge the employer one price for a drug and pay the pharmacy a lower price, keeping the difference. They also earn rebates from drug manufacturers for placing certain drugs on the formulary, and those rebates are not always passed through to the employer.
 
 The result is that employers often have no idea what they are actually paying for drugs, whether they are getting competitive pricing, or whether their formulary is designed to minimize cost or maximize PBM revenue.
 
-If you have never audited your PBM contract or asked detailed questions about how your PBM makes money on your account, you are almost certainly paying more than you need to.
+If you have never audited your PBM contract or asked detailed questions about how your PBM makes money on your account. You are almost certainly paying more than you need to.
 
 ## Strategies Employers Can Use
 
@@ -46,7 +46,7 @@ The good news is that there are concrete strategies employers can implement to t
 
 ### Carve Out Your Pharmacy Benefits
 
-As mentioned earlier, separating your pharmacy benefits from your medical carrier and working with an independent PBM gives you dramatically more transparency and control. Independent PBMs — sometimes called pass-through PBMs — charge a flat administrative fee and pass all rebates and discounts directly to the employer.
+As mentioned earlier, separating your pharmacy benefits from your medical carrier and working with an independent PBM gives you dramatically more transparency and control. Independent PBMs: sometimes called pass-through PBMs: charge a flat administrative fee and pass all rebates and discounts directly to the employer.
 
 This model eliminates spread pricing, aligns the PBM's interests with yours, and gives you full visibility into what you are paying for every prescription.
 
@@ -66,7 +66,7 @@ Many employers discover during an audit that their PBM contract contains terms t
 
 ### Use a Formulary That Works for You
 
-Your formulary — the list of drugs that are covered and at what tier — has a direct impact on your costs. Make sure your formulary prioritizes generics and biosimilars, places high-cost brand drugs on higher tiers with appropriate cost-sharing, includes prior authorization for the most expensive medications, and is reviewed and updated regularly.
+Your formulary, the list of drugs that are covered and at what tier, has a direct impact on your costs. Make sure your formulary prioritizes generics and biosimilars, places high-cost brand drugs on higher tiers with appropriate cost-sharing, includes prior authorization for the most expensive medications, and is reviewed and updated regularly.
 
 A well-managed formulary can reduce pharmacy costs by 10 to 20 percent compared to a formulary that has not been optimized.
 
@@ -80,10 +80,8 @@ Direct contracting is still relatively new and works best for employers with lar
 
 The first step is simply getting visibility into your current pharmacy spending. Ask your broker or PBM for a detailed pharmacy claims report that shows total spend by category, top drugs by cost, specialty drug utilization, generic fill rate, and per-member per-month pharmacy cost trends.
 
-If your broker cannot provide this information, or if the data reveals that your costs are higher than industry benchmarks, it is time to explore your options.
+If your broker cannot provide this information, or if the data reveals that your costs are higher than industry benchmarks. It is time to explore your options.
 
-Pharmacy is one of the few areas in employer healthcare spending where there are concrete, proven strategies that can deliver double-digit savings. But most employers never pursue them because they do not know they exist.
-
----
+Pharmacy is one of the few areas in employer healthcare spending where there are concrete, proven strategies that can deliver double-digit savings. But most employers never pursue them because they do not know they exist., -
 
 *Want to understand your pharmacy costs and explore savings opportunities? [Schedule a free benefits strategy review](/consultation) and we will analyze your pharmacy spending and identify actionable strategies.*

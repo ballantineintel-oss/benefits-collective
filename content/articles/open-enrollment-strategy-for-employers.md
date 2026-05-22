@@ -14,9 +14,9 @@ readingTime: "9 min read"
 
 Open enrollment is one of the most important periods in your company's benefits calendar. It is also one of the most mismanaged.
 
-For many employers, open enrollment is a scramble — a few weeks of frantic emails, confused employees, and last-minute decisions that lock the company into another year of suboptimal coverage. But the employers who get the best outcomes treat open enrollment as a strategic event, not an administrative chore.
+For many employers, open enrollment is a scramble, a few weeks of frantic emails, confused employees, and last-minute decisions that lock the company into another year of suboptimal coverage. But the employers who get the best outcomes treat open enrollment as a strategic event, not an administrative chore.
 
-With healthcare costs projected to climb by as much as 9 percent in 2026 — the largest increase in over a decade — getting open enrollment right has never been more important.
+With healthcare costs projected to climb by as much as 9 percent in 2026, the largest increase in over a decade, getting open enrollment right has never been more important.
 
 Here is how to run a smarter process.
 
@@ -32,7 +32,7 @@ It also means starting your benefits review early. Request claims data from your
 
 Every year brings regulatory updates that affect how you structure and communicate your benefits. In 2026, several changes are worth paying attention to.
 
-HSA contribution limits have increased. For 2026, individuals can contribute up to $4,400 and families up to $8,750. If you offer a high-deductible health plan with an HSA, make sure your employees know about these higher limits — and consider whether an employer HSA contribution would make the plan more attractive.
+HSA contribution limits have increased. For 2026, individuals can contribute up to $4,400 and families up to $8,750. If you offer a high-deductible health plan with an HSA, make sure your employees know about these higher limits: and consider whether an employer HSA contribution would make the plan more attractive.
 
 The dependent care FSA limit has also increased for the first time in decades, rising from $5,000 to $7,500 per household. This is a meaningful change for employees with childcare expenses and worth highlighting during enrollment.
 
@@ -44,7 +44,7 @@ Mental health parity rules under the Mental Health Parity and Addiction Equity A
 
 Open enrollment is not the time to be finalizing plan designs. By the time employees start making elections, you should have already completed your renewal negotiation, finalized which plans you are offering, modeled the cost impact of any changes, and prepared comparison materials.
 
-If you are considering adding a new plan option — such as a high-deductible plan alongside your existing PPO — the analysis and decision-making should happen well in advance. Launching a new plan option during enrollment without adequate preparation and communication is a recipe for low adoption and employee confusion.
+If you are considering adding a new plan option, such as a high-deductible plan alongside your existing PPO, the analysis and decision-making should happen well in advance. Launching a new plan option during enrollment without adequate preparation and communication is a recipe for low adoption and employee confusion.
 
 The most effective approach is to present employees with two or three clear plan options, each with a straightforward comparison of premiums, deductibles, out-of-pocket costs, and key features. Decision fatigue is real. More options does not mean better outcomes.
 
@@ -54,9 +54,9 @@ Employee education is the single biggest lever most employers are underutilizing
 
 The problem is usually not that employees do not care. It is that the information is too complex, too dense, or delivered too late.
 
-Start communicating at least three to four weeks before enrollment opens. Use plain language — not insurance jargon. Explain what is changing and why. Provide clear side-by-side plan comparisons. And offer multiple formats: email summaries, short videos, printed one-pagers, and live or virtual Q&A sessions.
+Start communicating at least three to four weeks before enrollment opens. Use plain language, not insurance jargon. Explain what is changing and why. Provide clear side-by-side plan comparisons. And offer multiple formats: email summaries, short videos, printed one-pagers, and live or virtual Q&A sessions.
 
-If you are making changes that affect employee costs — new deductibles, different copays, higher premiums — address them directly and honestly. Employees respond much better to transparent communication about cost increases than to discovering changes after they have enrolled.
+If you are making changes that affect employee costs: new deductibles, different copays, higher premiums: address them directly and honestly. Employees respond much better to transparent communication about cost increases than to discovering changes after they have enrolled.
 
 ## Help Employees Make Better Decisions
 
@@ -90,13 +90,13 @@ Some employers also find it helpful to extend enrollment hours or offer dedicate
 
 Once enrollment is complete, the work is not over. Conduct a post-enrollment audit to verify that all elections were processed correctly, payroll deductions are accurate, carrier enrollment files match your records, COBRA notices are sent to any employees who lost or declined coverage, and compliance documentation is in order.
 
-Catching errors in the first few weeks is much easier — and cheaper — than discovering them months later when an employee needs to use their coverage and finds out something is wrong.
+Catching errors in the first few weeks is much easier, and cheaper, than discovering them months later when an employee needs to use their coverage and finds out something is wrong.
 
 ## Build a Year-Round Benefits Communication Strategy
 
 The employers who get the best results from open enrollment are the ones who do not treat it as the only time they talk about benefits.
 
-Year-round communication — a quarterly benefits newsletter, periodic reminders about HSA contribution opportunities, wellness program updates, and mid-year check-ins — keeps employees engaged with their benefits and reduces the learning curve when enrollment comes around again.
+Year-round communication, a quarterly benefits newsletter, periodic reminders about HSA contribution opportunities, wellness program updates, and mid-year check-ins: keeps employees engaged with their benefits and reduces the learning curve when enrollment comes around again.
 
 When employees understand their benefits throughout the year, they make better decisions during open enrollment. And better decisions lead to lower costs for both the employer and the employee.
 
@@ -104,8 +104,6 @@ When employees understand their benefits throughout the year, they make better d
 
 Open enrollment is one of the highest-impact opportunities you have to manage your benefits costs and improve employee satisfaction. The difference between a well-run enrollment process and a disorganized one can be tens of thousands of dollars in misallocated spending and a workforce that is confused and frustrated with their coverage.
 
-Start early, communicate clearly, simplify the decision-making process, and follow up after enrollment closes. These are not complicated steps, but they require planning and intentionality.
-
----
+Start early, communicate clearly, simplify the decision-making process, and follow up after enrollment closes. These are not complicated steps, but they require planning and intentionality., -
 
 *Want help building a smarter open enrollment strategy? [Schedule a free benefits strategy review](/consultation) and we will help you plan an enrollment process that reduces costs and improves the employee experience.*

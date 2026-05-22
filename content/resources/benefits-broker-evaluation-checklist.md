@@ -8,7 +8,7 @@ resourceType: "checklist"
 downloadable: true
 ---
 
-Use this checklist to evaluate your current benefits broker or to compare brokers when considering a change. Score each item honestly. If your broker falls short in more than a few areas, it may be time for a conversation — or a second opinion.
+Use this checklist to evaluate your current benefits broker or to compare brokers when considering a change. Score each item honestly. If your broker falls short in more than a few areas, it may be time for a conversation, or a second opinion.
 
 ## Strategic Partnership
 
@@ -88,8 +88,6 @@ Count the boxes you checked. This gives you a rough sense of where your broker s
 
 **12 to 17 checked:** Your broker has significant gaps. Consider getting a second opinion from an independent advisor to see what you might be missing.
 
-**Fewer than 12 checked:** Your broker is likely underserving your account. It is time to seriously evaluate alternatives.
-
----
+**Fewer than 12 checked:** Your broker is likely underserving your account. It is time to seriously evaluate alternatives., -
 
 *Want help evaluating your broker or getting a second opinion? [Schedule a free benefits strategy review](/consultation) and we will give you an honest, independent assessment.*
